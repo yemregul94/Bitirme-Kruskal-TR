@@ -9,14 +9,3 @@ C:\Users\YunusEmre\source\repos\Proje1\Proje1\obj\Debug\Kruskal Projesi.csproj.C
 C:\Users\YunusEmre\source\repos\Proje1\Proje1\obj\Debug\Proje1.exe
 C:\Users\YunusEmre\source\repos\Proje1\Proje1\obj\Debug\Proje1.pdb
 C:\Users\YunusEmre\source\repos\Proje1\Proje1\obj\Debug\KruskalProjesi.MaliyetForm.resources
-D:\Ders\Yedek\Bitirme\Proje1\obj\Debug\Kruskal Projesi.csprojAssemblyReference.cache
-D:\Ders\Yedek\Bitirme\Proje1\obj\Debug\Proje1.exe
-D:\Ders\Yedek\Bitirme\Proje1\obj\Debug\Proje1.pdb
-D:\Ders\Yedek\Bitirme\Proje1\bin\Debug\Proje1.exe.config
-D:\Ders\Yedek\Bitirme\Proje1\bin\Debug\Proje1.exe
-D:\Ders\Yedek\Bitirme\Proje1\bin\Debug\Proje1.pdb
-D:\Ders\Yedek\Bitirme\Proje1\obj\Debug\KruskalProjesi.AnaForm.resources
-D:\Ders\Yedek\Bitirme\Proje1\obj\Debug\KruskalProjesi.MaliyetForm.resources
-D:\Ders\Yedek\Bitirme\Proje1\obj\Debug\Proje1.Properties.Resources.resources
-D:\Ders\Yedek\Bitirme\Proje1\obj\Debug\Kruskal Projesi.csproj.GenerateResource.cache
-D:\Ders\Yedek\Bitirme\Proje1\obj\Debug\Kruskal Projesi.csproj.CoreCompileInputs.cache
